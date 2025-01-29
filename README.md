@@ -1,1 +1,6 @@
-Sistema empleados Java, Spring (data, mvc), Jsps, Mysql
+Sistema empleados Java:
+Spring MVC
+Spring Data JPA Hibernate
+JSPs
+Bootstrap
+
